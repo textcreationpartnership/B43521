@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Jamaica in a letter from Port Royal written by the Germane princess to her  fellow collegiates and friends in New-Gate.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43521</idno><idno type="EEBO-CITATION">489265025</idno>
+  <idno type="VID">208652</idno>
+  <idno type="EEBO-PROQUEST">2240897682</idno>
+  
+            <idno type="OCLC"> 489265025</idno>
+            <idno type="OCLC">ocn 489265025</idno>
+            <idno type="STC">Wing N976B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208652)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Jamaica in a letter from Port Royal written by the Germane princess to her  fellow collegiates and friends in New-Gate.</title>
+               </titleStmt>
+               <extent>[2], 4, [1] p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap for Philip Brigs ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M.C.</note>
+                  <note>The later plate has date: 1793.</note>
+                  <note>Title vignette, headpiece.</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Carleton, Mary, 1642?-1673 --  Early works to 1800.</term>
+               <term type="topical_term">Exiles --  Jamaica --  Early works to 1800.</term>
+               <term type="geographic_name">Jamaica --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:208652:1"/>
+            <pb facs="tcp:208652:2"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of woman</figDesc>
+                  <p>
+                     <hi>Mary Carlton Cald</hi>
+                  </p>
+                  <p>
+                     <hi>Aet: Suae 38</hi>
+                  </p>
+                  <p>
+                     <hi>the German Prince<seg rend="sup">s</seg>.</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:208652:2"/>
+            <p>News from Jamaica IN A LETTER From Port Royal Written by the Germane Princess To her fellow Collegiates and Friends in New-Gate.</p>
+            <figure>
+               <figDesc>woodcut of woman</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>Peter Lillicrap,</hi> for <hi>Philip Brigs</hi> living in Mer-maid Court near Amen corner in Pater Noster-Row. 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:208652:3"/>
+            <pb n="1" facs="tcp:208652:3"/>
+            <head>The <hi>Germane Princess</hi> her Letter from <hi>Port-Royal</hi> in <hi>Jamaica</hi> to her friends in <hi>Newgate.</hi>
+            </head>
+            <opener>
+               <salute>My Friends and Acquaintance,</salute>
+            </opener>
+            <p>I Cannot (notwithstanding the Grandeur of our <hi>Birth</hi> and <hi>State</hi>) but have you frequent in our thoughts: and that I may not omit any opportunity to ex<g ref="char:EOLhyphen"/>press my great respects to you, and your <hi>Misterious function,</hi> I have laid hold on this occasion to ac<g ref="char:EOLhyphen"/>quaint you with my welfare since my leaving <hi>England,</hi> and should be glad to hear from you of your decrease of your <hi>Monthly Bill of Mortality;</hi> but now <hi>I</hi> think on't <hi>I</hi> may sooner expect to see you here, or in some other <hi>Plantation,</hi> then to receive a line from you, if a Line— or so prevent it not.</p>
+            <p>Give me leave to tell you, that my sentence of Death was not more horrid and affrighting, than the sense and ap<g ref="char:EOLhyphen"/>prehension of my sudden and unavoidable <hi>Exile</hi> was grievous to me, and for a while insupportable, at length to make that present affliction the lighter, <hi>I</hi> considered
+<pb n="2" facs="tcp:208652:4"/> how many before me had suffered the like banishment with an undaunted courage, patience, and matchless gal<g ref="char:EOLhyphen"/>lantry of Spirit.</p>
+            <p>Had <hi>I</hi> like witty wanton <hi>Ovid</hi> been ignorant of the cause of my exiling, <hi>I</hi> should have complain'd much more than <hi>I</hi> do, and should have consumed that time, (which <hi>I</hi> now spend in Jollity) in swelling the books of my <hi>Tristia</hi> to a greater bulk than his whole works. <hi>I</hi> had this con<g ref="char:EOLhyphen"/>sideration to comfort me beside (and be ruled by me in this undeniable truth) that it is much better to loose a li<g ref="char:EOLhyphen"/>berty (too dangerous to keep) and run the risk and ha<g ref="char:EOLhyphen"/>zard of a long Voyage, than sail up <hi>Holborn</hi> and be cast away at <hi>Tiburn.</hi>
+            </p>
+            <p>
+               <hi>I</hi> speak not to one, but all, it is a general concern, from the lowest to the highest <hi>Class</hi> of your Famous <hi>University,</hi> (vulgarly called the <hi>Whit</hi> or <hi>Naskin</hi>) not one but ought to be timely instructed herein, as well <hi>Bulkers, Pads, Gilters, Files, Lifters,</hi> or others, by what other Names and Titles they are distinguished.</p>
+            <p>Expect not your <hi>Rogueries</hi> should be more winkt at, than those of your <hi>Predecessors:</hi> for know, as ye are those <hi>Pesti<g ref="char:EOLhyphen"/>lential</hi> Diseases which poison and infect the air in which you breath, and afflict the body of that <hi>Common-wealth</hi> which gave ye breath, so the wise <hi>Physitians</hi> thereof (the Judges) will take such care to free it continually from such maladies.</p>
+            <p>Some of you may be compared to superfluous <hi>Wens,</hi> which must be utterly cut off, some to <hi>Carbunckles,</hi> which must be burnt out with <hi>Cauterizing Buttons;</hi> and others to redundant humours, which must be purg'd away into a<g ref="char:EOLhyphen"/>nother climate, of which number <hi>I</hi> am one.</p>
+            <p>It is now high time for me to relate somewhat of my Voyage to <hi>Jamaica,</hi> and what hath happened to me since
+<pb n="3" facs="tcp:208652:4"/> my arrival: <hi>I</hi> could not in reason expect much civility from the Commander or Seamen of the Ship, (especially as then stood my condition) yet contrary to all expectati<g ref="char:EOLhyphen"/>on I was treated like my self, <hi>I</hi> mean a <hi>Princess.</hi> VVhen <hi>I</hi> saw my self slighted as the spurious brat of a <hi>Stocking-Mender,</hi> I applyed my self to the old refuge of my never Failing Wit, and tuneable tongue, by vvhich means I ob<g ref="char:EOLhyphen"/>tain'd a commodious Cabbin, and vvhereas my Food be<g ref="char:EOLhyphen"/>fore was so Salt I could have sooner fil'd my belly on the bruish of Egg-shells, or the skins of Flints than thereon; I had now every other day Fresh provision.</p>
+            <p>Immediately after my Landing, I was received more like a victor, then a victim; so far from being a slave to others, that I was continually encompassed with a crowd<g ref="char:EOLhyphen"/>ing number of such, who strove who should pay me rhe greatest tribute of Love and Service. The Earth (the Center of all heavy bodyes) did not more strongly at<g ref="char:EOLhyphen"/>tract a Weighty Stone, thrown up into the Air, than the bare naming me drew all sorts of people from all parts of the Island, especially the looser sort of persons.</p>
+            <p>At first I wondred there to see so many of my acquain<g ref="char:EOLhyphen"/>tance, but when I considered the cause of my own coming thither, my admiration ceased.</p>
+            <p>At present I am troubled with nothing but how I may answer the expectation of such of our old acquaintance who daily treat me profusely; for such hath their success been in some late dangerous exploits that it hath blown their excesses to that height of expence, that they have almost delug'd this place in liquor.</p>
+            <p>Whilst I was with you I was never half so much afraid of being hang'd for any thing I should commit, as now to be drovvn'd in their overflovving cups: judge vvhether I am not much beholding to them, since they svvear no Ex<g ref="char:EOLhyphen"/>ecutioner
+<pb n="4" facs="tcp:208652:5"/> shall have any thing to do with me; for they intend (themselves to kil me with kindness: hence you may conclude my bill of Fare is not scanted vvith an over frugal hand, neither are my pleasures stinted, I am <hi>Lorded</hi> o're by none, my Will unconfin'd to any; as my delights are various, so is my food, my habit vvould not disparage my <hi>Lord</hi> vvere he here to obstruct my Happiness; and novv vvhilst I think of it, if any of you should meet him in your walks (I think he need not fear you will pick his pocket) present my service to his <hi>Lordship,</hi> and acquaint his <hi>Honour,</hi> I live more like my <hi>Lady</hi> now then ever I did, and am like to continue so. But knowing how overjoy'd he will be to hear how splendidly <hi>I</hi> live, pray do not too hastily tell him these good tidings, but by degrees, pre<g ref="char:EOLhyphen"/>paring him for the reception, least the suddain joy should transport him, and so his <hi>Honours</hi> health in danger of be<g ref="char:EOLhyphen"/>ing prejudiced thereby. And when you have so done, in all humility tell his <hi>Lordship</hi> I <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his hands and he may—</p>
+            <p>I <hi>have not time to inlarge my self further, neither do</hi> I <hi>think it requis<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o tire your patienee at first; but if my</hi> Bully-Ruffins <hi>on the one side surfet me not to death; and you on the other make not too much hast to be hang'd, ex<g ref="char:EOLhyphen"/>pect to hear of me again: in the mean time remember me to Pimps, Pads, Priggs, Bilkers, Bauds, Bulkers, Brushers, Broil<g ref="char:EOLhyphen"/>ers, and Brokers,; not forgetting Filers, Gilters, and Night-walkers; advising you and them with speed to mend your man<g ref="char:EOLhyphen"/>ners, as you shall answer it at your peril hanging like a Dog in a halter: I subscribe my self</hi>
+            </p>
+            <closer>
+               <signed>Your quondam Friend in Exile. <hi>M. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:208652:5"/>
+            <p>Licenced <hi>October</hi> the 11th. 1671.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
